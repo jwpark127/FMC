@@ -9,8 +9,6 @@ Published in **[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)**.
 - Python >= 3.9
 - numpy >= 2.2.6
 - pandas >= 2.2.3
-- POT >= 0.9.5
-- requests >= 2.32.3
 - scikit-learn >= 1.6.1
 - scipy >= 1.15.3
 - torch >= 2.0.0
